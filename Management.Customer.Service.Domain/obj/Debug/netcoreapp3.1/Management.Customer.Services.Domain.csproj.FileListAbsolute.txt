@@ -1,0 +1,9 @@
+D:\Management.Services\Management.Customer.Services.Domain\bin\Debug\netcoreapp3.1\Management.Customer.Services.Domain.deps.json
+D:\Management.Services\Management.Customer.Services.Domain\bin\Debug\netcoreapp3.1\Management.Customer.Services.Domain.dll
+D:\Management.Services\Management.Customer.Services.Domain\bin\Debug\netcoreapp3.1\Management.Customer.Services.Domain.pdb
+D:\Management.Services\Management.Customer.Services.Domain\obj\Debug\netcoreapp3.1\Management.Customer.Services.Domain.csprojAssemblyReference.cache
+D:\Management.Services\Management.Customer.Services.Domain\obj\Debug\netcoreapp3.1\Management.Customer.Services.Domain.AssemblyInfoInputs.cache
+D:\Management.Services\Management.Customer.Services.Domain\obj\Debug\netcoreapp3.1\Management.Customer.Services.Domain.AssemblyInfo.cs
+D:\Management.Services\Management.Customer.Services.Domain\obj\Debug\netcoreapp3.1\Management.Customer.Services.Domain.csproj.CoreCompileInputs.cache
+D:\Management.Services\Management.Customer.Services.Domain\obj\Debug\netcoreapp3.1\Management.Customer.Services.Domain.dll
+D:\Management.Services\Management.Customer.Services.Domain\obj\Debug\netcoreapp3.1\Management.Customer.Services.Domain.pdb

@@ -1,0 +1,14 @@
+D:\Management.Services\Management.Customer.Services.Application\bin\Debug\netcoreapp3.1\Management.Customer.Services.Application.deps.json
+D:\Management.Services\Management.Customer.Services.Application\bin\Debug\netcoreapp3.1\Management.Customer.Services.Application.dll
+D:\Management.Services\Management.Customer.Services.Application\bin\Debug\netcoreapp3.1\Management.Customer.Services.Application.pdb
+D:\Management.Services\Management.Customer.Services.Application\bin\Debug\netcoreapp3.1\Management.Common.dll
+D:\Management.Services\Management.Customer.Services.Application\bin\Debug\netcoreapp3.1\Management.Customer.Services.Domain.dll
+D:\Management.Services\Management.Customer.Services.Application\bin\Debug\netcoreapp3.1\Management.Common.pdb
+D:\Management.Services\Management.Customer.Services.Application\bin\Debug\netcoreapp3.1\Management.Customer.Services.Domain.pdb
+D:\Management.Services\Management.Customer.Services.Application\obj\Debug\netcoreapp3.1\Management.Customer.Services.Application.csprojAssemblyReference.cache
+D:\Management.Services\Management.Customer.Services.Application\obj\Debug\netcoreapp3.1\Management.Customer.Services.Application.AssemblyInfoInputs.cache
+D:\Management.Services\Management.Customer.Services.Application\obj\Debug\netcoreapp3.1\Management.Customer.Services.Application.AssemblyInfo.cs
+D:\Management.Services\Management.Customer.Services.Application\obj\Debug\netcoreapp3.1\Management.Customer.Services.Application.csproj.CoreCompileInputs.cache
+D:\Management.Services\Management.Customer.Services.Application\obj\Debug\netcoreapp3.1\Management.Customer.Services.Application.csproj.CopyComplete
+D:\Management.Services\Management.Customer.Services.Application\obj\Debug\netcoreapp3.1\Management.Customer.Services.Application.dll
+D:\Management.Services\Management.Customer.Services.Application\obj\Debug\netcoreapp3.1\Management.Customer.Services.Application.pdb

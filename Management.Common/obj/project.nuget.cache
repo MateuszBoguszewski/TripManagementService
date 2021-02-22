@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "65lZ/MzVF+zkOCm9k7ydQgVVc+hmpPLipByoFRZKsdw02YHP7BRw5FbI7qBPF8ObJED30pY//ItGWhFX+Pbrlg==",
+  "success": true,
+  "projectFilePath": "D:\\ITSolutions\\Listopad2020\\Management.Services\\Management.Common\\Management.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

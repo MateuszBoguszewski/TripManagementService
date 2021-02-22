@@ -1,0 +1,6 @@
+D:\Management.Services\Management.Customer.Services.Infrastructure\bin\Debug\netcoreapp3.1\Management.Common.dll
+D:\Management.Services\Management.Customer.Services.Infrastructure\bin\Debug\netcoreapp3.1\Management.Customer.Services.Application.dll
+D:\Management.Services\Management.Customer.Services.Infrastructure\bin\Debug\netcoreapp3.1\Management.Customer.Services.Domain.dll
+D:\Management.Services\Management.Customer.Services.Infrastructure\obj\Debug\netcoreapp3.1\Management.Customer.Services.Infrastructure.AssemblyInfoInputs.cache
+D:\Management.Services\Management.Customer.Services.Infrastructure\obj\Debug\netcoreapp3.1\Management.Customer.Services.Infrastructure.AssemblyInfo.cs
+D:\Management.Services\Management.Customer.Services.Infrastructure\obj\Debug\netcoreapp3.1\Management.Customer.Services.Infrastructure.csprojAssemblyReference.cache
